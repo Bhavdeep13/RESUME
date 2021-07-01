@@ -165,6 +165,20 @@ p{
     .title{
         margin-left: 2em;
         padding-left: 1em;
+        
+    }
+    
+    #badges{
+        margin-left: auto;
+        padding-left: auto;
+        margin-right: auto;
+        padding-right: auto;
+        width: auto;
+        margin-top: auto;
+        padding-top: auto;
+        align-items: center;
+        text-align: center;
+        
     }
 }
 
